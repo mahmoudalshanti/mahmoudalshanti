@@ -44,6 +44,7 @@
 - ☁️ Backend patterns 
 - 🔄 TypeScript migration strategies
 - 🔒 Advanced authentication patterns
+- ⚡ Real-Time WebSockets
 
 
 
