@@ -58,5 +58,5 @@ I'm always open to:
 
 **How to reach me:**
 - 📧 Email: [medoalshanti@gmail.com](mailto:medoalshanti@gmail.com)
-- 💼 LinkedIn: [myname](https://linkedin.com/in/your-profile)
+- 💼 LinkedIn: [Mahmoud Alshanti](https://linkedin.com/in/mahmoudalshanti)
 - 🐦 Twitter: [@myname](https://twitter.com/yourhandle)
