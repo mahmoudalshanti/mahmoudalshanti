@@ -57,6 +57,6 @@ I'm always open to:
 - 💡 Project ideas
 
 **How to reach me:**
-- 📧 Email: [medoalshanti@gmail.com](mailto:medoalshanti@gmail.com)
+- 📧 Email: [mahmoud.alshantti.1@gmail.com](mailto:mahmoud.alshantti.1@gmail.com)
 - 💼 LinkedIn: [Mahmoud Alshanti](https://linkedin.com/in/mahmoudalshanti)
 - 🐦 Twitter: [@myname](https://twitter.com/yourhandle)
