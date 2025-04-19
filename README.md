@@ -3,7 +3,7 @@
 ** Expert Full-Stack Developer | Modren JavaScript Stack **  
 *I combine software engineering experience to building scalable web applications with modern architectures*
 
-[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/mahmoudalshanti)
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/mahmoudshantti)
 [![Email](https://img.shields.io/badge/-Email%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:medoalshanti@gmail.com)
 
 ---
@@ -58,5 +58,5 @@ I'm always open to:
 
 **How to reach me:**
 - 📧 Email: [medoalshanti@gmail.com](mailto:medoalshanti@gmail.com)
-- 💼 LinkedIn: [Mahmoud Alshanti](https://linkedin.com/in/mahmoudalshanti)
-- 🐦 Twitter: [@myname](https://twitter.com/yourhandle)
+- 💼 LinkedIn: [@mahmoudshantti](https://linkedin.com/in/mahmoudshantti)
+- 🐦 Twitter: [@mahmoudshantti](https://twitter.com/mahmoudshantti)
