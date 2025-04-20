@@ -1,6 +1,6 @@
 # 👋 Hello There! I'm Mahmoud 💻🚀
 
-** Expert Full-Stack Developer | Modren JavaScript Stack **  
+** Expert Full-Stack Developer | Modern JavaScript Stack **  
 *I combine software engineering experience to building scalable web applications with modern architectures*
 
 [![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/mahmoudshantti)
